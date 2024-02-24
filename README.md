@@ -1,7 +1,9 @@
 # Personal Portfolio Website in React
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 <img width="1680" alt="Ekran Resmi 2024-02-24 17 15 49" src="https://github.com/cengizxturkes/react-personal-portfolio/assets/103938055/aa986b69-d287-4d93-8151-52bc45c15abd">
+
+
+https://github.com/cengizxturkes/react-personal-portfolio/assets/103938055/0599b5c3-3498-404f-87f8-2a12c5aafa5e
+
 
 
 Built using:
