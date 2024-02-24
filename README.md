@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Built using:
 
+
+https://github.com/cengizxturkes/react-personal-portfolio/assets/103938055/ec650509-180d-4789-8f2d-d16c08533c7b
+
+
 - Front-end library: React
 - CSS framework: React-bootstrap
 - CSS animations library: Animate.css
