@@ -48,6 +48,7 @@ export const NavBar = () => {
                 }
                 onClick={() => onUpdateActiveLink("home")}
               >
+                {/* HOME Page */}
                 Home
               </Nav.Link>
               <Nav.Link
